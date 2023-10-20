@@ -1,9 +1,40 @@
 # LTR
 Lingvanex Test References for MT Evaluation from English into a total of 30 target languages for a big variety of cases.
 
-| Parameter | Description | Length |
-|-----------|-------------|--------|
-| Param1    | Desc1       | Length1|
-| Param2    | Desc2       | Length2|
-| Param3    | Desc3       | Length3|
+| Parameter | Description |
+|-----------|-------------|
+| Length    | Sentences from 1 to 100 words.       |
+| Param2    | Desc2       |
+| Param3    | Desc3       |
+
+
+
+
+Domain
+Medicine (12%), Automobile (11%), Finance (8%)
+Tokenizer
+Jupiter is 1.000.000 km far. Ask Mr. Johnson for training
+Tags
+I want to eat <tag> and swim
+Capitalisation (Case)
+HELLO my Dear frIEND
+Different languages in one text (Up to 3 languages)
+I see "Купалинка" performance near the theater.
+Styling
+Hello Dude!
+Errors (Grammar, OCR)
+I neet (need) to buy a kat (cat)
+Abbreviations
+The model was named 15.BVcX-10
+Named Entities
+Let’s go to New York city
+Idioms
+A piece of cake. Once in a blue moon’
+Formulas (Math, Physics, Chemistry)
+Cr2(SO4)3 + CO2 + H2O + K2SO4 + KNO3
+Romanian numbers
+It was in MCMXVII year
+Unicode Special Characters
+№%&*/#
+
 
