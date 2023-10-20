@@ -22,7 +22,7 @@ LTR -- Lingvanex Test References for MT Evaluation from English into a total of 
 
 
 # Data structure
-`LTR/Languages/Eng-Fre` - folder with test references
+`LTR/Languages/Eng-*` - folders with test references
 
 `LANGUAGES.tsv` - mapping between ISO codes and language names
 
