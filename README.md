@@ -1,5 +1,5 @@
 # LTR
-Lingvanex Test References for MT Evaluation from English into a total of 30 target languages for a big variety of cases.
+LTR -- Lingvanex Test References for MT Evaluation from English into a total of 30 target languages for a big variety of cases.
 
 ## TEST CASES
 
@@ -42,4 +42,3 @@ The LTR data set is released under the [CC BY-SA 4.0 license](https://github.com
     Year = "2023"
 }
 ```
-
