@@ -19,8 +19,6 @@ Lingvanex Test References for MT Evaluation from English into a total of 30 targ
 | Formulas (Math, Physics, Chemistry)    | Cr2(SO4)3 + CO2 + H2O + K2SO4 + KNO3 |
 | Romanian numbers    | It was in MCMXVII year |
 | Unicode Special Characters    | №%&*/#  |
-| Length    | Sentences from 1 to 100 words.       |
-| Length    | Sentences from 1 to 100 words.       |
 
 
 # Data structure
@@ -32,8 +30,7 @@ Lingvanex Test References for MT Evaluation from English into a total of 30 targ
 Data package has been released on 11/18/2023. Enjoy!
 
 # License
-The LTR data set is released under the [CC BY-SA 4.0 license] (Ссылка на https://github.com/lingvanex-mt/LTR/LICENSE.md)
-
+The LTR data set is released under the [CC BY-SA 4.0 license]([https://github.com/MicrosoftTranslator/NTREX/blob/main/LICENSE.md](https://github.com/lingvanex-mt/LTR/blob/main/LICENSE.md).
 # How to Cite
 ```
 @inproceedings{
