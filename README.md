@@ -23,14 +23,16 @@ Lingvanex Test References for MT Evaluation from English into a total of 30 targ
 
 # Data structure
 `LTR/Languages/Eng-Fre` - folder with test references
-`LANGUAGES.tsv` - mapping between ISO codes and language names 
+
+`LANGUAGES.tsv` - mapping between ISO codes and language names
+
 `LICENSE.md`
 
 # Updates
 Data package has been released on 11/18/2023. Enjoy!
 
 # License
-The LTR data set is released under the [CC BY-SA 4.0 license]([https://github.com/MicrosoftTranslator/NTREX/blob/main/LICENSE.md](https://github.com/lingvanex-mt/LTR/blob/main/LICENSE.md).
+The LTR data set is released under the [CC BY-SA 4.0 license](https://github.com/lingvanex-mt/LTR/blob/main/LICENSE.md).
 # How to Cite
 ```
 @inproceedings{
